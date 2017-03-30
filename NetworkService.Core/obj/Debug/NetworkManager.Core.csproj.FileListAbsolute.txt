@@ -1,0 +1,4 @@
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Core\NetworkManager.Core\bin\Debug\NetworkManager.Core.dll
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Core\NetworkManager.Core\bin\Debug\NetworkManager.Core.pdb
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Core\NetworkManager.Core\obj\Debug\NetworkManager.Core.dll
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Core\NetworkManager.Core\obj\Debug\NetworkManager.Core.pdb

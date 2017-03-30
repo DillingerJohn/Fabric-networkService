@@ -1,0 +1,7 @@
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Servies\NetworkManager.Services\bin\Debug\NetworkManager.Services.dll
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Servies\NetworkManager.Services\bin\Debug\NetworkManager.Services.pdb
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Servies\NetworkManager.Services\bin\Debug\NetworkManager.Core.dll
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Servies\NetworkManager.Services\bin\Debug\NetworkManager.Core.pdb
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Servies\NetworkManager.Services\obj\Debug\NetworkManager.Services.csprojResolveAssemblyReference.cache
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Servies\NetworkManager.Services\obj\Debug\NetworkManager.Services.dll
+C:\Users\John_Dillinger\Desktop\NetworkManager\NetworkManager\NetworkManager.Servies\NetworkManager.Services\obj\Debug\NetworkManager.Services.pdb
